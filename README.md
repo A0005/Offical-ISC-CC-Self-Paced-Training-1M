@@ -1,1 +1,1 @@
-# Offical--ISC--CC-Self-Paced-Training-1M
+# Offical-ISC-CC-Self-Paced-Training-1M Notes
